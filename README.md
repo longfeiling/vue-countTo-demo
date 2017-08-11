@@ -1,6 +1,7 @@
 # my_demo
 
-> A Vue.js project
+> A Vue.js project,这个countup组件主模仿教程自己动手操作学习封装一个vue component
+> 虽然网上有各种各样的第三方组件，但是各司的业务和需求都不太一样，想要找一个完全合适自己需求的第三方组件是不太可能的，自己封装定制组件，有比较好的灵活性和针对性，拓展性强。
 
 ## Build Setup
 
